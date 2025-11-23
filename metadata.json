@@ -1,0 +1,5 @@
+{
+  "name": "MindFlow Task Manager",
+  "description": "A smart, AI-powered task manager that helps you break down goals, prioritize work, and visualize productivity using Gemini 2.5.",
+  "requestFramePermissions": []
+}
